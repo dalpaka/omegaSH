@@ -1,4 +1,4 @@
-# omegaOS
+# omegaSH
 
 ## currently in developement
                                                         
